@@ -27,7 +27,7 @@ Para ejecutar el código necesitas los siguientes archivos en las ubicaciones es
 
 | Variable | Descripción |
 | :--- | :--- |
-| **`OPENAI_API_KEY`** | Clave de acceso para gpt-4o-mini y text-embedding-3-large. |
+| **`OPENAI_API_KEY`** | Clave de acceso para `gpt-4o-mini` y `text-embedding-3-large`. |
 | **`POSTGRES_URI`** | Cadena de conexión URI para PostgreSQL. |
 | **`ELASTIC_URL`** | URL del servidor de Elasticsearch. |
 | **`ELASTIC_USER`** | Usuario para la conexión a Elasticsearch. |
