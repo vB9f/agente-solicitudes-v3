@@ -48,4 +48,4 @@ La aplicación es un servicio HTTP (`app.py`) por lo que se debe desplegar como 
 
 ## 🧠 Arquitectura del agente
 
-![Arquitectura del sistema](images/arq-multiagente.png)
+![Arquitectura del sistema](images/arq_multiagente.png)
