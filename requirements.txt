@@ -1,0 +1,16 @@
+flask
+gunicorn
+langchain
+langchain-openai
+langgraph
+langchain-core
+langchain-community
+langchain-elasticsearch
+langgraph-checkpoint-postgres
+psycopg[binary,pool]==3.2.6
+sqlalchemy
+python-dotenv
+elasticsearch
+elastic-transport
+pydantic
+werkzeug==2.0.3
